@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" This the module for square class"""
 
 
 class Square():
